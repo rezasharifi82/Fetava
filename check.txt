@@ -1,0 +1,24 @@
+in both systems
+in one system
+host.get
+initial handshaking protocol:
+--> @Fetava,hostname
+
+final server: clients dictionary
+ip:[hostname,port,[]]
+Server.clients[ip]=[e[1],port,[]]
+
+
+server to client:
+@Fetava,hostname
+
+final client: server dictionary
+ip:[hostname,os,port]
+
+
+bugs:
+back port already in use
+
+
+defafult port of sending is 2222
+default port of receiving is 2121
